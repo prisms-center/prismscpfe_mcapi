@@ -1,4 +1,4 @@
-# prismspf_mcapi: The PRISMS-CPFE/Materials Commons CLI Plugin
+# prismscpfe_mcapi: The PRISMS-CPFE/Materials Commons CLI Plugin
 
 This is the initial version of the Materials Commons command-line-interface plugin for PRISMS-CPFE, which is still under active development. The base Materials Commons CLI can be found [here](https://github.com/materials-commons/mcapi/tree/master/python).
 
