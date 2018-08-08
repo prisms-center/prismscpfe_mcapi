@@ -17,7 +17,7 @@ This plugin assists you in creating a Materials Commons representation of crysta
             "mcurl": "https://test.materialscommons.org/api",
             "interfaces": [
                { "name": "prismscpfe",
-                 "desc":"Create PRISMS-PF samples, processes, measurements, etc.",
+                 "desc":"Create PRISMS-CPFE samples, processes, measurements, etc.",
                  "subcommand":"prismscpfe_subcommand",
                  "module":"prismscpfe_mcapi"
                }
